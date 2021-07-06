@@ -1,14 +1,3 @@
-"""
-Implementation of Linear Regression using Gradient Descent.
-
-Let m = #training examples, n = #number of features Sizes differ 
-a little bit from blog notation. It takes as input the following: 
-y is R^(1 x m), X is R^(n x m), w is R^(n x 1)
-
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2020-04-03 Initial coding
-*    2020-04-25 Updated comments, and small changes in code
-"""
 
 import numpy as np
 
