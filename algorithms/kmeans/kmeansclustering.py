@@ -3,9 +3,6 @@ From scratch implementation of K means clustering which is a unsupervised
 clustering  method that works by iteratively computing new centroids and 
 moving centroids to the center of the new formed clusters.
 
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2020-05-28 Initial coding
-
 """
 
 import numpy as np
