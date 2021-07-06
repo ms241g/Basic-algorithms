@@ -1,20 +1,7 @@
 """
-Author: Philip Andreadis
-e-mail: philip_andreadis@hotmail.com
-
 
 Implementation of Decision Tree model from scratch.
-Metric used to apply the split on the data is the Gini index which is calculated for each feature's single value
-in order to find the best split on each step. This means there is room for improvement performance wise as this
-process is O(n^2) and can be reduced to linear complexity.
 
-Parameters of the model:
-max_depth (int): Maximum depth of the decision tree
-min_node_size (int): Minimum number of instances a node can have. If this threshold is exceeded the node is terminated
-
-Both are up to the user to set.
-
-Input dataset to train() function must be a numpy array containing both feature and label values.
 
 """
 
