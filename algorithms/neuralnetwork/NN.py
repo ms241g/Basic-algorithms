@@ -1,9 +1,5 @@
 """
 Simple two-layered Neural Network from scratch implementation.
-
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2020-04-28 Initial coding
-
 """
 
 import numpy as np
