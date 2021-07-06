@@ -1,11 +1,3 @@
-"""
-Implementation of K-nearest neighbor (KNN) from scratch
-where you can either use 2-loops (inefficient), 1-loop (better)
-or a heavily vectorized zero-loop implementation.
-
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2020-04-24 Initial coding
-"""
 
 import numpy as np
 
