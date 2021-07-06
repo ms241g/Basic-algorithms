@@ -10,8 +10,6 @@ To understand how to reformulate the optimization problem we obtain
 to get the input to cvxopt QP solver this blogpost can be useful:
 https://xavierbourretsicotte.github.io/SVM_implementation.html
 
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2020-04-26 Initial coding
 
 """
 
