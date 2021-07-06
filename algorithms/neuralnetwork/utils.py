@@ -1,9 +1,3 @@
-"""
-These were (shamelessly) taken from cs231n course github code.
-I believe these were coded by Andrej Karpathy so credit goes to him
-for coding these.
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 
